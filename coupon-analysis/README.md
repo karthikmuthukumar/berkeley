@@ -39,7 +39,7 @@ The goal of this project is to use what you know about visualizations and probab
 
 
 ### Summary
-## Hypothesis about drivers who accepted the bar coupons:
+
 1. Acceptance rate for Drivers who went to bar 3 or more times: **76.88%**
 2. Acceptance rate for Drivers who went to fewer trips to bar: **37.06%**
 3. Comparison between those who went to a bar 3 or fewer times a month to those who went more **39.82%**
